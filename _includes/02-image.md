@@ -1,3 +1,1 @@
-Supposed to be image of me.
-alt-text (https://octodex.github.com/images/yaktocat.png)
-[Profile Photo]
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
